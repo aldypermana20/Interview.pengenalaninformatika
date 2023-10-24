@@ -33,8 +33,9 @@ Saya berencana untuk mengembangkan sebuah solusi teknologi informasi inovatif ya
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
-masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
+Penjual | Menerima pesanan dari pelanggan | bisa dimudahkan untuk pemesananya lewat online | ⭐⭐⭐⭐⭐
+Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mudah dan praktis, lewat online | ⭐⭐⭐⭐⭐
+
 # 3. Struktur Data
 
 mermaid
