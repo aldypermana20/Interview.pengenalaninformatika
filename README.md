@@ -41,9 +41,9 @@ Saya berencana untuk mengembangkan sebuah solusi teknologi informasi inovatif ya
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 Penjual | Menerima pesanan dari pelanggan | bisa dimudahkan untuk pemesananya lewat online | ⭐⭐⭐⭐⭐
-Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mudah dan praktis, lewat online | ⭐⭐⭐⭐⭐
+Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mudah dan praktis lewat online | ⭐⭐⭐⭐⭐
 Pembeli | Melakukan pemesanan burger secara online | Mudah dan cepat mendapatkan burger yang diinginkan | ⭐⭐⭐⭐
-Pembeli |Melihat daftar menu dan harga	| Dapat memilih burger yang sesuai dengan selera dan budget | ⭐⭐⭐
+Pembeli | Melihat daftar menu dan harga | Dapat memilih burger yang sesuai dengan selera dan budget | ⭐⭐⭐
 Pembeli | Menambahkan atau mengurangi topping | Dapat menyesuaikan burger sesuai dengan selera | ⭐⭐
 Pembeli | Menonaktifkan fitur notifikasi saat memesan burger | Tidak terganggu oleh notifikasi saat sedang bekerja atau melakukan aktivitas lainnya | ⭐
 Penjual | Menerima notifikasi pesanan | Dapat segera menyiapkan burger yang dipesan | ⭐⭐⭐⭐
@@ -54,7 +54,7 @@ Pembeli | Membayar pesanan secara online | Tidak perlu membawa uang tunai saat m
 Pembeli | Mengubah atau membatalkan pesanan | Dapat menyesuaikan pesanan jika terjadi perubahan rencana | ⭐⭐
 Penjual | Menerima notifikasi perubahan atau pembatalan pesanan	Dapat segera menyesuaikan persiapan pesanan | ⭐ 
 Penjual | Menawarkan promo atau diskon	Menarik lebih banyak pelanggan | ⭐⭐
-Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau dikirim	 |Pelanggan dapat mengetahui status pesanan mereka ⭐
+Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau dikirim	 | Pelanggan dapat mengetahui status pesanan mereka ⭐
 
 # 3. Struktur Data
 
