@@ -25,6 +25,13 @@ Saya berencana untuk mengembangkan sebuah solusi teknologi informasi inovatif ya
 - campaign :tempat untuk orang membeli burger,kebab, dan hotdog melalui teknologi informasi
 - Target user :
    - orang yang ingin membeli burger
+   - u 12+
+   - Orang-orang yang mencari makanan cepat saji yang lezat dan terjangkau.
+   - Orang-orang yang mencari makanan yang praktis untuk dibawa ke mana-mana.
+   - Orang-orang yang mencari makanan yang cocok untuk berbagai acara.
+   - Mahasiswa sering mencari makanan cepat saji yang terjangkau dan praktis.
+   - Pekerja sering mencari makanan cepat saji yang bisa dibawa ke tempat kerja.
+   - Keluarga sering mencari makanan cepat saji yang bisa dinikmati bersama-sama.
 - User experience theme:
    - sederhana
    - warna : dominan warna hitam, warna putih dan cream
@@ -35,6 +42,19 @@ sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 Penjual | Menerima pesanan dari pelanggan | bisa dimudahkan untuk pemesananya lewat online | ⭐⭐⭐⭐⭐
 Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mudah dan praktis, lewat online | ⭐⭐⭐⭐⭐
+Pembeli | Melakukan pemesanan burger secara online | Mudah dan cepat mendapatkan burger yang diinginkan | ⭐⭐⭐⭐
+Pembeli |Melihat daftar menu dan harga	| Dapat memilih burger yang sesuai dengan selera dan budget | ⭐⭐⭐
+Pembeli | Menambahkan atau mengurangi topping | Dapat menyesuaikan burger sesuai dengan selera | ⭐⭐
+Pembeli | Menonaktifkan fitur notifikasi saat memesan burger | Tidak terganggu oleh notifikasi saat sedang bekerja atau melakukan aktivitas lainnya | ⭐
+Penjual | Menerima notifikasi pesanan | Dapat segera menyiapkan burger yang dipesan | ⭐⭐⭐⭐
+Penjual | Melihat detail pesanan | Dapat memastikan bahwa pesanan sesuai dengan keinginan pelanggan | ⭐⭐⭐
+Penjual	Mengirimkan pesanan	Pelanggan dapat menerima burger dengan cepat dan tepat | ⭐⭐
+Penjual | Menerima pembayaran	| Dapat melacak pembayaran yang telah diterima | ⭐
+Pembeli | Membayar pesanan secara online | Tidak perlu membawa uang tunai saat memesan burger | ⭐⭐⭐
+Pembeli | Mengubah atau membatalkan pesanan | Dapat menyesuaikan pesanan jika terjadi perubahan rencana | ⭐⭐
+Penjual | Menerima notifikasi perubahan atau pembatalan pesanan	Dapat segera menyesuaikan persiapan pesanan | ⭐ 
+Penjual | Menawarkan promo atau diskon	Menarik lebih banyak pelanggan | ⭐⭐
+Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau dikirim	 |Pelanggan dapat mengetahui status pesanan mereka ⭐
 
 # 3. Struktur Data
 
