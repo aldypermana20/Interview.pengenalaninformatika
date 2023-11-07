@@ -43,7 +43,12 @@ Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mu
 
 
 # 5. Teknologi, Library, dan Framework
-
+Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara lain sebagai berikut:
+- 1.2.1 000webhost adalah layanan web hosting gratis yang didirikan pada tahun 2007. Layanan ini menyediakan hosting untuk website dan blog, serta akses ke cPanel dan MySQL. 000webhost juga menawarkan berbagai fitur tambahan, seperti subdomain gratis, builder website, dan dukungan email.
+- 1.2.2 Figma
+    - Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ux/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
+- 1.2.3 Visual Studio Code
+   - Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebutdan bisa diinstal di berbagai desktop
 
 # 6. Desain User Experience dan User Interface
 
@@ -62,6 +67,11 @@ Pembeli | Memesan pesanan dari daftar menu | bisa membuat pesanan yang sangat mu
 
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Life Cycle :
+-Pada fase desain, saya akan menggunakan berbagai alat dan teknik desain untuk mendesain arsitektur dan antarmuka produk. Hal ini membantu saya untuk membuat produk yang mudah digunakan dan menarik bagi pengguna.
+-Pada fase implementasi, saya akan menggunakan berbagai bahasa pemrograman dan framework untuk membangun produk. Hal ini membantu saya untuk membangun produk yang berkualitas tinggi dan sesuai dengan persyaratan.
+-Pada fase pengujian, saya akan menggunakan berbagai metode pengujian untuk menguji produk. Hal ini membantu saya untuk memastikan bahwa produk memenuhi persyaratan dan berfungsi dengan baik.
+Pada fase penerapan, saya akan bekerja sama dengan tim DevOps untuk menerapkan produk ke lingkungan produksi. Hal ini membantu saya untuk memastikan bahwa produk dapat digunakan oleh pengguna
 
 
 
