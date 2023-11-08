@@ -48,13 +48,13 @@ Pembeli | Menambahkan atau mengurangi topping | Dapat menyesuaikan burger sesuai
 Pembeli | Menonaktifkan fitur notifikasi saat memesan burger | Tidak terganggu oleh notifikasi saat sedang bekerja atau melakukan aktivitas lainnya | ⭐
 Penjual | Menerima notifikasi pesanan | Dapat segera menyiapkan burger yang dipesan | ⭐⭐⭐⭐
 Penjual | Melihat detail pesanan | Dapat memastikan bahwa pesanan sesuai dengan keinginan pelanggan | ⭐⭐⭐
-Penjual	Mengirimkan pesanan	Pelanggan dapat menerima burger dengan cepat dan tepat | ⭐⭐
+Penjual | Mengirimkan pesananP| pelanggan dapat menerima burger dengan cepat dan tepat | ⭐⭐
 Penjual | Menerima pembayaran	| Dapat melacak pembayaran yang telah diterima | ⭐
 Pembeli | Membayar pesanan secara online | Tidak perlu membawa uang tunai saat memesan burger | ⭐⭐⭐
 Pembeli | Mengubah atau membatalkan pesanan | Dapat menyesuaikan pesanan jika terjadi perubahan rencana | ⭐⭐
-Penjual | Menerima notifikasi perubahan atau pembatalan pesanan	Dapat segera menyesuaikan persiapan pesanan | ⭐ 
-Penjual | Menawarkan promo atau diskon	Menarik lebih banyak pelanggan | ⭐⭐
-Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau dikirim	 | Pelanggan dapat mengetahui status pesanan mereka ⭐
+Penjual | Menerima notifikasi perubahan atau pembatalan pesanan | Dapat segera menyesuaikan persiapan pesanan | ⭐ 
+Penjual | Menawarkan promo atau diskon | Menarik lebih banyak pelanggan | ⭐⭐
+Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau dikirim	 | Pelanggan dapat mengetahui status pesanan mereka | ⭐
 
 # 3. Struktur Data
 
