@@ -59,56 +59,31 @@ Penjual | Mengirimkan notifikasi kepada pelanggan saat pesanan siap diambil atau
 # 3. Struktur Data
 ```mermaid
 erDiagram
-    pembeli ||--o{ memesan : membuat
-    pesanan {
+    pembeli ||--o{ pesanan : membuat
+    pembeli {
         varchar username
         varchar password
         varchar email
     }
-    pembeli ||--|{ pembeli : terkirim
-    pesanan {
-        datetime tgl_memesan
-        text isi_pesanan
-        enum status
-    }
-    penjual ||--|{ diterima : menerima pesanan
-    penjual {
-        varchar username
-        varchar password
-        varchar email
-    }
-    menerima pesanan {
-        datetime tgl_pemesanan
-        text pesanan diterima
-        enum status
-}
-```
-```mermaid
-erDiagram
-    pembeli ||--o{ memesan : membuat
-    pesanan {
-        varchar username
-        varchar password
-        varchar email
-    }
-    pembeli ||--|{ pembeli : terkirim
+    pesanan ||--|{ penjual : terkirim
     pesanan {
         datetime tgl_memesan
         text isi_pesanan
         enum status
     }
-    penjual ||--|{ diterima : menerima pesanan
+    penjual ||--|{ menerima_pesanan : menerima pesanan
     penjual {
         varchar username
         varchar password
         varchar email
     }
-    menerima pesanan {
+    menerima_pesanan {
         datetime tgl_pemesanan
         text pesanan diterima
         enum status
 }
 ```
+
 
 
 ## 4 Arsitektur Sistem
