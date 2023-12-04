@@ -95,7 +95,7 @@ flowchart TD
 Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara lain sebagai berikut:
 - 1.2.1 mysql
   - MySQL adalah sebuah sistem manajemen database yang dapat digunakan untuk membuat, menyimpan, dan mengelola data. MySQL menggunakan model relasional untuk menyimpan data, yaitu data dikelompokkan dalam tabel-tabel yang saling berhubungan. Setiap tabel memiliki kolom-kolom yang menyimpan data dari satu jenis tertentu.Fungsi utama MySQL adalah untuk menyimpan dan mengelola data. MySQL dapat digunakan untuk berbagai keperluan, seperti:
-  - Menyimpan data untuk website atau aplikasi web
+- Menyimpan data untuk website atau aplikasi web
 - Menyimpan data untuk aplikasi desktop atau mobile
 - Menyimpan data untuk keperluan bisnis
 - 1.2.2 Figma
