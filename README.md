@@ -83,6 +83,33 @@ erDiagram
         enum status
 }
 ```
+```mermaid
+erDiagram
+    pembeli ||--o{ pesanan : membuat
+    pembeli {
+        char nik
+        varchar username
+        varchar password
+        varchar email
+    }
+    pesanan ||--|{ penjual : terkirim
+    pesanan {
+        datetime tgl_pesanan
+        text isi_pesanan
+        enum status
+    }
+    penjual ||--|{ menerima_pesanan : menerima orderan
+    penjual {
+        varchar username
+        varchar password
+        varchar email
+    }
+    menerima_pesanan {
+      datetime tgl_pemesanan
+      text pesanan diterima
+      enum status
+}
+```
 
 
 
