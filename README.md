@@ -106,7 +106,7 @@ erDiagram
     }
     menerima_pesanan {
       datetime tgl_pemesanan
-      text pesanan diterima
+      text pesanan_diterima
       enum status
 }
 ```
