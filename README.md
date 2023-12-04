@@ -104,6 +104,10 @@ Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara la
    - Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebutdan bisa diinstal di berbagai desktop
 
 # 6. Desain User Experience dan User Interface
+https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0%3A1&mode=design&t=fUFYCIl47QVWEO8C-1
+- **Halaman Awal**
+- ![Frame 1 (1)](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/1b37cd1c-758f-4e42-bb38-602bff4d13ec)
+
 
 ## Design UI & UX Menggunakan Figma
 ### Link Figma
