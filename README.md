@@ -126,9 +126,9 @@ https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Life Cycle :
--Pada fase desain, saya akan menggunakan berbagai alat dan teknik desain untuk mendesain arsitektur dan antarmuka produk. Hal ini membantu saya untuk membuat produk yang mudah digunakan dan menarik bagi pengguna.
--Pada fase implementasi, saya akan menggunakan berbagai bahasa pemrograman dan framework untuk membangun produk. Hal ini membantu saya untuk membangun produk yang berkualitas tinggi dan sesuai dengan persyaratan.
--Pada fase pengujian, saya akan menggunakan berbagai metode pengujian untuk menguji produk. Hal ini membantu saya untuk memastikan bahwa produk memenuhi persyaratan dan berfungsi dengan baik.
+- Pada fase desain, saya akan menggunakan berbagai alat dan teknik desain untuk mendesain arsitektur dan antarmuka produk. Hal ini membantu saya untuk membuat produk yang mudah digunakan dan menarik bagi pengguna.
+- Pada fase implementasi, saya akan menggunakan berbagai bahasa pemrograman dan framework untuk membangun produk. Hal ini membantu saya untuk membangun produk yang berkualitas tinggi dan sesuai dengan persyaratan.
+- Pada fase pengujian, saya akan menggunakan berbagai metode pengujian untuk menguji produk. Hal ini membantu saya untuk memastikan bahwa produk memenuhi persyaratan dan berfungsi dengan baik.
 Pada fase penerapan, saya akan bekerja sama dengan tim DevOps untuk menerapkan produk ke lingkungan produksi. Hal ini membantu saya untuk memastikan bahwa produk dapat digunakan oleh pengguna
 
 
