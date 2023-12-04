@@ -107,10 +107,11 @@ Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara la
 https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0%3A1&mode=design&t=fUFYCIl47QVWEO8C-1
 - **Halaman Awal**
 - ![Frame 1 (1)](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/1b37cd1c-758f-4e42-bb38-602bff4d13ec)
+- **Halaman Deskripsi**
+- ![Frame 2](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/8677b6c8-9946-402c-8a48-4e1c32602dc6)
+- **Halaman Menu**
+- ![Frame 3](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/6009578f-9f5a-4a2f-81f8-9b20e2ae389a)
 
-
-## Design UI & UX Menggunakan Figma
-### Link Figma
 
 ## 7. Demonstrasi Video
 
