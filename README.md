@@ -93,7 +93,11 @@ flowchart TD
 
 # 5. Teknologi, Library, dan Framework
 Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara lain sebagai berikut:
-- 1.2.1 000webhost adalah layanan web hosting gratis yang didirikan pada tahun 2007. Layanan ini menyediakan hosting untuk website dan blog, serta akses ke cPanel dan MySQL. 000webhost juga menawarkan berbagai fitur tambahan, seperti subdomain gratis, builder website, dan dukungan email.
+- 1.2.1 mysql
+  - MySQL adalah sebuah sistem manajemen database yang dapat digunakan untuk membuat, menyimpan, dan mengelola data. MySQL menggunakan model relasional untuk menyimpan data, yaitu data dikelompokkan dalam tabel-tabel yang saling berhubungan. Setiap tabel memiliki kolom-kolom yang menyimpan data dari satu jenis tertentu.Fungsi utama MySQL adalah untuk menyimpan dan mengelola data. MySQL dapat digunakan untuk berbagai keperluan, seperti:
+  - Menyimpan data untuk website atau aplikasi web
+- Menyimpan data untuk aplikasi desktop atau mobile
+- Menyimpan data untuk keperluan bisnis
 - 1.2.2 Figma
     - Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ux/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
 - 1.2.3 Visual Studio Code
