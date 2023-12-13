@@ -102,6 +102,8 @@ Saya memakai teknologi yang memudahkan saya dalam membuat web aplikasi antara la
     - Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ux/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
 - 1.2.3 Visual Studio Code
    - Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebutdan bisa diinstal di berbagai desktop
+- 1.2.4 Jquery
+     -jQuery berfungsi sebagai library JavaScript yang dapat membantu developer yang mengatur interaksi antara JavaScript dengan HTML atau website yang berjalan di sisi klien
 
 # 6. Desain User Experience dan User Interface
 https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0%3A1&mode=design&t=fUFYCIl47QVWEO8C-1
