@@ -91,7 +91,7 @@ erDiagram
 ## 4 Arsitektur Sistem
 ```mermaid
 flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: javascript] <--> id3[Web Server:html,css]  
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: React JS] <--> id3[Web Server:Reac JS]  
 ```
 
 
