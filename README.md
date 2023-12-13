@@ -157,11 +157,10 @@ Bahasa pemrograman adalah bahasa manusia yang dimodifikasi sedemikian rupa sehin
 secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Life Cycle :
 - Pada fase desain, saya akan menggunakan berbagai alat dan teknik desain untuk mendesain arsitektur dan antarmuka produk. Hal ini membantu saya untuk membuat produk yang mudah digunakan dan menarik bagi pengguna.
 - Pada fase implementasi, saya akan menggunakan berbagai bahasa pemrograman dan framework untuk membangun produk. Hal ini membantu saya untuk membangun produk yang berkualitas tinggi dan sesuai dengan persyaratan.
-- Pada fase pengujian, saya akan menggunakan berbagai metode pengujian untuk menguji produk. Hal ini membantu saya untuk memastikan bahwa produk memenuhi persyaratan dan berfungsi dengan baik.
-Pada fase penerapan, saya akan bekerja sama dengan tim DevOps untuk menerapkan produk ke lingkungan produksi. Hal ini membantu saya untuk memastikan bahwa produk dapat digunakan oleh pengguna
-
-
-
+- Testing adalah proses untuk memeriksa apakah suatu sistem atau perangkat lunak berfungsi sesuai dengan spesifikasi yang ditentukan. Testing dapat dilakukan dengan berbagai metode, seperti unit testing, integration testing, system testing, dan acceptance testing.
+Review adalah proses untuk meninjau suatu sistem atau perangkat lunak untuk memastikan bahwa sistem atau perangkat lunak tersebut memenuhi persyaratan dan standar yang ditentukan. Review dapat dilakukan oleh tim internal atau oleh pihak ketiga.
+-Deployment adalah proses untuk menyebarkan suatu sistem atau perangkat lunak ke lingkungan produksi. Deployment dapat dilakukan dengan berbagai metode, seperti manual deployment, automated deployment, dan continuous deployment.
+-Maintenance adalah proses untuk menjaga suatu sistem atau perangkat lunak agar tetap berfungsi dengan baik. Maintenance dapat dilakukan dengan berbagai metode, seperti corrective maintenance, preventive maintenance, dan predictive maintenance.
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 Database atau sistem basis data merupakan unsur penting dalam produk teknologi informasi, terutama dalam hal manajemen data. Sistem ini berperan dalam menyimpan, mengatur, dan menyediakan akses terhadap informasi. Database memungkinkan aplikasi untuk menyimpan data secara permanen, yang berarti data tetap ada setelah aplikasi dimatikan. Sistem ini juga memungkinkan untuk melakukan pencarian, penyaringan, dan analisis data secara efisien.
 
