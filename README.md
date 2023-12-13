@@ -120,7 +120,8 @@ https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0
 
 
 ## 7. Demonstrasi Video
-
+- https://youtu.be/gJ21Kjy8qio?si=e8A2ObVpMlSYVqT9
+- https://youtu.be/SybXtrtzLZc?si=baQjZnlxCq1k2c7I
 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
@@ -141,6 +142,8 @@ Mengatur komunikasi antara perangkat keras dan perangkat lunak
 Menyediakan lingkungan untuk eksekusi aplikasi
 Memastikan aplikasi dapat berjalan dengan efisien dan aman
 Oleh karena itu, mesin komputasi dan sistem operasi adalah fondasi dari produk teknologi informasi kita. Mereka adalah komponen penting yang memungkinkan kita untuk menggunakan aplikasi dan perangkat teknologi informasi lainnya.
+link yt
+https://youtu.be/6p2SnV0lmNY?si=9m0qKaQ5TwknNtr_
 
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
@@ -152,6 +155,8 @@ Menjaga data tetap teratur: Struktur data dapat membantu memastikan bahwa data d
 Mencegah duplikasi data: Struktur data dapat membantu mencegah data disimpan secara duplikat, yang dapat menyebabkan masalah seperti inkonsistensi data.
 
 Bahasa pemrograman adalah bahasa manusia yang dimodifikasi sedemikian rupa sehingga bisa dimengerti oleh komputer untuk menjalankan tugas tertentu. Dalam produk saya kali ini, saya menggunakan Bahasa pemograman JavaScript untuk membangun website saya. Selain itu saya juga menggunakan HTML(Hypertext Markup Languange) dan CSS (Cascade Style Sheet) untuk membangun kerangka dasar website yang saya gunakan, dan saya memakai library javascript yaitu jquery.
+link yt
+https://youtu.be/uxibZzlws3Q?si=uO8AsBk70tfiR1S3
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Life Cycle :
@@ -161,8 +166,11 @@ secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Lif
 Review adalah proses untuk meninjau suatu sistem atau perangkat lunak untuk memastikan bahwa sistem atau perangkat lunak tersebut memenuhi persyaratan dan standar yang ditentukan. Review dapat dilakukan oleh tim internal atau oleh pihak ketiga.
 - Deployment adalah proses untuk menyebarkan suatu sistem atau perangkat lunak ke lingkungan produksi. Deployment dapat dilakukan dengan berbagai metode, seperti manual deployment, automated deployment, dan continuous deployment.
 - Maintenance adalah proses untuk menjaga suatu sistem atau perangkat lunak agar tetap berfungsi dengan baik. Maintenance dapat dilakukan dengan berbagai metode, seperti corrective maintenance, preventive maintenance, dan predictive maintenance.
+  link yt
+  https://youtu.be/oGlfAXopFKg?si=BG4XRqcuqd7tyxrH
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 Database atau sistem basis data merupakan unsur penting dalam produk teknologi informasi, terutama dalam hal manajemen data. Sistem ini berperan dalam menyimpan, mengatur, dan menyediakan akses terhadap informasi. Database memungkinkan aplikasi untuk menyimpan data secara permanen, yang berarti data tetap ada setelah aplikasi dimatikan. Sistem ini juga memungkinkan untuk melakukan pencarian, penyaringan, dan analisis data secara efisien.
 
 Selain itu, sistem basis data dapat menyediakan tingkat keamanan dan integritas data yang penting dalam aplikasi yang mengelola informasi sensitif. Dengan demikian, database berperan dalam memastikan bahwa data yang diperlukan untuk produk teknologi informasi dapat disimpan dan diakses dengan efisien dan aman.
-
+link yt
+https://youtu.be/Y0UYh1lSxCI?si=-MKyJOqUvpM1Cz0t
