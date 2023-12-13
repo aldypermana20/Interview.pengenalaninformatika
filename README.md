@@ -35,6 +35,10 @@ Saya berencana untuk mengembangkan sebuah solusi teknologi informasi inovatif ya
 - User experience theme:
    - sederhana
    - warna : dominan warna hitam, warna putih dan cream
+  Inspirasi design
+![5e593fb060cf873d4f75f34a_GB20Template20Image%201-p-1080](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/a92e9a84-0182-4df7-9c08-c03c7c500b0d)
+![ef8a528cd3a4956c9b78e07a83cb2b89](https://github.com/aldypermana20/Interview.pengenalaninformatika/assets/144552513/42da34a7-9875-4ee3-80b1-f7802ac2fa56)
+
 
 # 2. User Story
 
