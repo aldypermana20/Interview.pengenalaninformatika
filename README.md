@@ -144,7 +144,14 @@ Oleh karena itu, mesin komputasi dan sistem operasi adalah fondasi dari produk t
 
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+komponen utama dalam pengembangan produk teknologi informasi yaitu Algoritma, struktur data, dan bahasa pemrograman. Algoritma adalah urutan-langkah untuk menyelesaikan masalah atau menjalankan tugas tertentu. Mereka membentuk inti dari berbagai fungsi dan fitur dalam produk teknologi informasi.
 
+Struktur data adalah cara menyimpan dan mengorganisir data dalam komputer. Struktur data dapat digunakan untuk berbagai tujuan, termasuk
+Mengelola data dengan efisien: Struktur data yang efisien dapat membantu komputer mengakses dan memproses data dengan cepat.
+Menjaga data tetap teratur: Struktur data dapat membantu memastikan bahwa data disimpan dalam urutan yang logis dan mudah dipahami.
+Mencegah duplikasi data: Struktur data dapat membantu mencegah data disimpan secara duplikat, yang dapat menyebabkan masalah seperti inkonsistensi data.
+
+Bahasa pemrograman adalah bahasa manusia yang dimodifikasi sedemikian rupa sehingga bisa dimengerti oleh komputer untuk menjalankan tugas tertentu. Dalam produk saya kali ini, saya menggunakan Bahasa pemograman JavaScript untuk membangun website saya. Selain itu saya juga menggunakan HTML(Hypertext Markup Languange) dan CSS (Cascade Style Sheet) untuk membangun kerangka dasar website yang saya gunakan, dan saya memakai library javascript yaitu jquery.
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 secara umum Proses Pembangunan Teknologi Informasi mengikuti Web Development Life Cycle :
@@ -156,5 +163,7 @@ Pada fase penerapan, saya akan bekerja sama dengan tim DevOps untuk menerapkan p
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+Database atau sistem basis data merupakan unsur penting dalam produk teknologi informasi, terutama dalam hal manajemen data. Sistem ini berperan dalam menyimpan, mengatur, dan menyediakan akses terhadap informasi. Database memungkinkan aplikasi untuk menyimpan data secara permanen, yang berarti data tetap ada setelah aplikasi dimatikan. Sistem ini juga memungkinkan untuk melakukan pencarian, penyaringan, dan analisis data secara efisien.
 
+Selain itu, sistem basis data dapat menyediakan tingkat keamanan dan integritas data yang penting dalam aplikasi yang mengelola informasi sensitif. Dengan demikian, database berperan dalam memastikan bahwa data yang diperlukan untuk produk teknologi informasi dapat disimpan dan diakses dengan efisien dan aman.
 
