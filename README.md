@@ -126,7 +126,7 @@ https://www.figma.com/file/sd5qkInLGAZBTM2bJUVMAm/Untitled?type=design&node-id=0
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 Mesin komputasi dan sistem operasi memainkan peran penting dalam produk teknologi informasi kita. Mesin komputasi menyediakan kekuatan pemrosesan yang dibutuhkan untuk menjalankan aplikasi perangkat lunak, sedangkan sistem operasi menyediakan antarmuka antara mesin komputasi dan aplikasi. Tanpa keduanya, produk teknologi informasi kita tidak akan dapat berfungsi.
 
-Berikut adalah ringkasan peran mesin komputasi dan sistem operasi dalam produk teknologi informasi:
+Berikut ringkasan peran mesin komputasi dan sistem operasi dalam produk teknologi informasi yang saya gunakan:
 
 Mesin komputasi
 
